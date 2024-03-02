@@ -1,0 +1,6 @@
+# bitcoin# https://tea.xyz/what-is-this-file
+---
+version: 1.0.0
+codeOwners:
+  - '0xD3c561fF275a94B575f1B4fAcae82cf477111c4F'
+quorum: 1
